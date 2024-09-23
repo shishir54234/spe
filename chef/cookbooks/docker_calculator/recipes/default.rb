@@ -1,0 +1,1 @@
+include_recipe 'docker_calculator::docker_deploy'
